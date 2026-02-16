@@ -1,2 +1,5 @@
-# 851ba1a7-d0dc-4393-8127-fd3a2e5b41fc
-Auto-generated repository to test Dataspecer connection
+# This repository was created using [Dataspecer online tool](https://dataspecer.com/)
+
+Every commit to main generates documentation from the committed data specification. The documentation is generated into the "publication-branch" branch.
+
+Each commit into the "publication-branch" is deployed using GitHub pages.
